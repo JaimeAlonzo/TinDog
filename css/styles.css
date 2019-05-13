@@ -169,8 +169,8 @@ p {
 
 /* MEDIA QUERY */
 @media (max-width: 1028px) {
-  #title {
-    text-align: center
+  #title .container-fluid{
+    text-align: center;
   }
 
   .title-image {
